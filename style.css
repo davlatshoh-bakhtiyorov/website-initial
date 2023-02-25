@@ -155,6 +155,21 @@ nav.sticky ul li a
     box-shadow: 9px;
 }
 
+.men{
+    margin-top: 11px;
+    text-size-adjust: 11px;
+    font-size: 18px;
+    ffont-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    border-style: groove;
+    border-top-color: rgb(226, 219, 219);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(204, 67, 26);
+    border-width: 12px;
+    border-radius: 5px;
+    box-shadow: 9px;
+}
+
 .xarita{
     text-align: center;
     
