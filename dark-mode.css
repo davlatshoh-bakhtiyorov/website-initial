@@ -1,0 +1,34 @@
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.dark-mode nav {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.dark-mode nav.sticky {
+    background: #1a1a1a;
+}
+
+.dark-mode nav .logo,
+.dark-mode nav ul li a {
+    color: #fff;
+}
+
+.dark-mode .vazirlik,
+.dark-mode .taklif,
+.dark-mode .yonalish,
+.dark-mode .topshirish,
+.dark-mode .men {
+    color: #fff;
+    border-top-color: #333;
+}
+
+.dark-mode .taklif {
+    text-shadow: 2px 2px 5px rgb(0, 150, 50);
+}
+
+.dark-mode .men {
+    text-shadow: 2px 2px 5px rgb(150, 50, 0);
+}
